@@ -1,0 +1,22 @@
+# Maven
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+application-local.properties
+
+# OS
+.DS_Store
+Thumbs.db
